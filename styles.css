@@ -2,3 +2,12 @@
     background-color: aliceblue;
     color: purple;
 }
+
+#first {
+    color: blue;
+}
+
+.business {
+    color: red;
+    font-weight: bold;
+}
